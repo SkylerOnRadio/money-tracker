@@ -1,6 +1,7 @@
 import express from "express";
 
 import userRouter from "./routes/userRoutes.js";
+import db from "./database/database.js";
 
 const PORT = process.env.PORT;
 
