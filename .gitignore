@@ -2,3 +2,5 @@ node_modules/
 *.sqlite
 backend/uploads/
 .env
+.vscode
+*.md
