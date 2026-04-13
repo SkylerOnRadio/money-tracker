@@ -4,3 +4,4 @@ backend/uploads/
 .env
 .vscode
 *.md
+*.sqlite
